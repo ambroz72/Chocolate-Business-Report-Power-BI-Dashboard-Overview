@@ -1,5 +1,17 @@
 # 📊 Chocolate Business Report – Power BI Dashboard Overview
 This Power BI dashboard presents a comprehensive analysis of chocolate sales performance across various dimensions including time, geography, products, and personnel. Below is a breakdown of the key visual components:
+# This repository contain 
+
+Dataset
+
+Power Bi dashboard (Data analysis & visualisation)
+
+Power Point presentation (insights)
+
+Word document(insight description in details) 
+
+Image of the power bi dashboard
+
 
 ![screenshot](cbi.jpg)
 
